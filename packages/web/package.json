@@ -1,0 +1,19 @@
+{
+  "name": "@nebulosa-ui/web",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "Renato D. Schneider <renato@brasilfone.com.br>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/web.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  }
+}
